@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start:dev`
 
 It concurrently start the react app in port 3000 and the json server in port 3004
 
